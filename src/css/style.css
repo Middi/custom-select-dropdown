@@ -99,14 +99,3 @@ label {
 .hidden {
   display: none;
 }
-
-
-select {
-  width: 100%;
-  padding: 1rem;
-  box-sizing: border-box;
-}
-
-option {
-  background-color: red;
-}
